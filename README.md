@@ -1,1 +1,1 @@
-# NZSeek
+# Data Science training tasks
