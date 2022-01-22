@@ -1,1 +1,0 @@
-# Data Science training tasks
